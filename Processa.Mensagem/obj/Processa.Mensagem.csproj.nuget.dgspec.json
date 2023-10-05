@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\alessandro.pereira\\Documents\\Pessoal\\Projetos\\worker-processa-mensagem\\src\\Processa.Mensagem\\Processa.Mensagem.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\alessandro.pereira\\Documents\\Pessoal\\Projetos\\worker-processa-mensagem\\src\\Processa.Mensagem\\Processa.Mensagem.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alessandro.pereira\\Documents\\Pessoal\\Projetos\\worker-processa-mensagem\\src\\Processa.Mensagem\\Processa.Mensagem.csproj",
+        "projectName": "Processa.Mensagem",
+        "projectPath": "C:\\Users\\alessandro.pereira\\Documents\\Pessoal\\Projetos\\worker-processa-mensagem\\src\\Processa.Mensagem\\Processa.Mensagem.csproj",
+        "packagesPath": "C:\\Users\\alessandro.pereira\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alessandro.pereira\\Documents\\Pessoal\\Projetos\\worker-processa-mensagem\\src\\Processa.Mensagem\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\alessandro.pereira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

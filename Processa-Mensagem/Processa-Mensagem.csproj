@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Worker">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>dotnet-Processa_Mensagem-f8ec116e-01bd-41ab-a06f-e88f203156db</UserSecretsId>
+    <RootNamespace>Processa_Mensagem</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Cronos" Version="0.7.1" />
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="7.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Mensagem.Domain\Mensagem.Domain.csproj" />
+    <ProjectReference Include="..\Mensagem.Service\Mensagem.Service.csproj" />
+  </ItemGroup>
+</Project>
