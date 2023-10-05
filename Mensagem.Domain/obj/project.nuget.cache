@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "SxcZS0UeR0nNxR4E7eOb7NS9COcZ0kt5GNfmDPEm7zYQoz4YhGGA9R6O7q1WixrpEVgGU29bXW7FTz7UxjOBRw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alessandro.pereira\\Documents\\Pessoal\\Projetos\\worker-processa-mensagem\\src\\Mensagem.Domain\\Mensagem.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alessandro.pereira\\.nuget\\packages\\rabbitmq.client\\6.5.0\\rabbitmq.client.6.5.0.nupkg.sha512",
+    "C:\\Users\\alessandro.pereira\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\alessandro.pereira\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

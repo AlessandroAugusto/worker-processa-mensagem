@@ -1,0 +1,15 @@
+C:\Users\alessandro.pereira\Documents\Pessoal\Projetos\worker-processa-mensagem\src\Mensagem.Infra\bin\Debug\net6.0\Mensagem.Infra.deps.json
+C:\Users\alessandro.pereira\Documents\Pessoal\Projetos\worker-processa-mensagem\src\Mensagem.Infra\bin\Debug\net6.0\Mensagem.Infra.dll
+C:\Users\alessandro.pereira\Documents\Pessoal\Projetos\worker-processa-mensagem\src\Mensagem.Infra\bin\Debug\net6.0\Mensagem.Infra.pdb
+C:\Users\alessandro.pereira\Documents\Pessoal\Projetos\worker-processa-mensagem\src\Mensagem.Infra\bin\Debug\net6.0\Mensagem.Domain.dll
+C:\Users\alessandro.pereira\Documents\Pessoal\Projetos\worker-processa-mensagem\src\Mensagem.Infra\bin\Debug\net6.0\Mensagem.Domain.pdb
+C:\Users\alessandro.pereira\Documents\Pessoal\Projetos\worker-processa-mensagem\src\Mensagem.Infra\obj\Debug\net6.0\Mensagem.Infra.csproj.AssemblyReference.cache
+C:\Users\alessandro.pereira\Documents\Pessoal\Projetos\worker-processa-mensagem\src\Mensagem.Infra\obj\Debug\net6.0\Mensagem.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alessandro.pereira\Documents\Pessoal\Projetos\worker-processa-mensagem\src\Mensagem.Infra\obj\Debug\net6.0\Mensagem.Infra.AssemblyInfoInputs.cache
+C:\Users\alessandro.pereira\Documents\Pessoal\Projetos\worker-processa-mensagem\src\Mensagem.Infra\obj\Debug\net6.0\Mensagem.Infra.AssemblyInfo.cs
+C:\Users\alessandro.pereira\Documents\Pessoal\Projetos\worker-processa-mensagem\src\Mensagem.Infra\obj\Debug\net6.0\Mensagem.Infra.csproj.CoreCompileInputs.cache
+C:\Users\alessandro.pereira\Documents\Pessoal\Projetos\worker-processa-mensagem\src\Mensagem.Infra\obj\Debug\net6.0\Mensagem.Infra.csproj.CopyComplete
+C:\Users\alessandro.pereira\Documents\Pessoal\Projetos\worker-processa-mensagem\src\Mensagem.Infra\obj\Debug\net6.0\Mensagem.Infra.dll
+C:\Users\alessandro.pereira\Documents\Pessoal\Projetos\worker-processa-mensagem\src\Mensagem.Infra\obj\Debug\net6.0\refint\Mensagem.Infra.dll
+C:\Users\alessandro.pereira\Documents\Pessoal\Projetos\worker-processa-mensagem\src\Mensagem.Infra\obj\Debug\net6.0\Mensagem.Infra.pdb
+C:\Users\alessandro.pereira\Documents\Pessoal\Projetos\worker-processa-mensagem\src\Mensagem.Infra\obj\Debug\net6.0\ref\Mensagem.Infra.dll

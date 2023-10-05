@@ -1,0 +1,12 @@
+C:\Users\alessandro.pereira\Documents\Pessoal\Projetos\worker-processa-mensagem\src\Mensagem.Domain\bin\Debug\net6.0\Mensagem.Domain.deps.json
+C:\Users\alessandro.pereira\Documents\Pessoal\Projetos\worker-processa-mensagem\src\Mensagem.Domain\bin\Debug\net6.0\Mensagem.Domain.dll
+C:\Users\alessandro.pereira\Documents\Pessoal\Projetos\worker-processa-mensagem\src\Mensagem.Domain\bin\Debug\net6.0\Mensagem.Domain.pdb
+C:\Users\alessandro.pereira\Documents\Pessoal\Projetos\worker-processa-mensagem\src\Mensagem.Domain\obj\Debug\net6.0\Mensagem.Domain.csproj.AssemblyReference.cache
+C:\Users\alessandro.pereira\Documents\Pessoal\Projetos\worker-processa-mensagem\src\Mensagem.Domain\obj\Debug\net6.0\Mensagem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alessandro.pereira\Documents\Pessoal\Projetos\worker-processa-mensagem\src\Mensagem.Domain\obj\Debug\net6.0\Mensagem.Domain.AssemblyInfoInputs.cache
+C:\Users\alessandro.pereira\Documents\Pessoal\Projetos\worker-processa-mensagem\src\Mensagem.Domain\obj\Debug\net6.0\Mensagem.Domain.AssemblyInfo.cs
+C:\Users\alessandro.pereira\Documents\Pessoal\Projetos\worker-processa-mensagem\src\Mensagem.Domain\obj\Debug\net6.0\Mensagem.Domain.csproj.CoreCompileInputs.cache
+C:\Users\alessandro.pereira\Documents\Pessoal\Projetos\worker-processa-mensagem\src\Mensagem.Domain\obj\Debug\net6.0\Mensagem.Domain.dll
+C:\Users\alessandro.pereira\Documents\Pessoal\Projetos\worker-processa-mensagem\src\Mensagem.Domain\obj\Debug\net6.0\refint\Mensagem.Domain.dll
+C:\Users\alessandro.pereira\Documents\Pessoal\Projetos\worker-processa-mensagem\src\Mensagem.Domain\obj\Debug\net6.0\Mensagem.Domain.pdb
+C:\Users\alessandro.pereira\Documents\Pessoal\Projetos\worker-processa-mensagem\src\Mensagem.Domain\obj\Debug\net6.0\ref\Mensagem.Domain.dll

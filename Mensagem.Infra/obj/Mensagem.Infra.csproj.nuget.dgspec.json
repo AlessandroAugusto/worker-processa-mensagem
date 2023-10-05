@@ -1,0 +1,152 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\alessandro.pereira\\Documents\\Pessoal\\Projetos\\worker-processa-mensagem\\src\\Mensagem.Infra\\Mensagem.Infra.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\alessandro.pereira\\Documents\\Pessoal\\Projetos\\worker-processa-mensagem\\src\\Mensagem.Domain\\Mensagem.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alessandro.pereira\\Documents\\Pessoal\\Projetos\\worker-processa-mensagem\\src\\Mensagem.Domain\\Mensagem.Domain.csproj",
+        "projectName": "Mensagem.Domain",
+        "projectPath": "C:\\Users\\alessandro.pereira\\Documents\\Pessoal\\Projetos\\worker-processa-mensagem\\src\\Mensagem.Domain\\Mensagem.Domain.csproj",
+        "packagesPath": "C:\\Users\\alessandro.pereira\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alessandro.pereira\\Documents\\Pessoal\\Projetos\\worker-processa-mensagem\\src\\Mensagem.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\alessandro.pereira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\alessandro.pereira\\Documents\\Pessoal\\Projetos\\worker-processa-mensagem\\src\\Mensagem.Infra\\Mensagem.Infra.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alessandro.pereira\\Documents\\Pessoal\\Projetos\\worker-processa-mensagem\\src\\Mensagem.Infra\\Mensagem.Infra.csproj",
+        "projectName": "Mensagem.Infra",
+        "projectPath": "C:\\Users\\alessandro.pereira\\Documents\\Pessoal\\Projetos\\worker-processa-mensagem\\src\\Mensagem.Infra\\Mensagem.Infra.csproj",
+        "packagesPath": "C:\\Users\\alessandro.pereira\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alessandro.pereira\\Documents\\Pessoal\\Projetos\\worker-processa-mensagem\\src\\Mensagem.Infra\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\alessandro.pereira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\alessandro.pereira\\Documents\\Pessoal\\Projetos\\worker-processa-mensagem\\src\\Mensagem.Domain\\Mensagem.Domain.csproj": {
+                "projectPath": "C:\\Users\\alessandro.pereira\\Documents\\Pessoal\\Projetos\\worker-processa-mensagem\\src\\Mensagem.Domain\\Mensagem.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapper.FluentMap": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Dapper.FluentMap.Dommel": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
